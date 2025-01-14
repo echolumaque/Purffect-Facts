@@ -33,7 +33,7 @@ Welcome to **Purrfect Facts**! This iOS project demonstrates the core functional
 
 ## Features
 - **Random Cat Facts**  
-  Fetched from [Meowfacts](https://meowfacts.herokuapp.com/).
+  Fetched from [Meowfacts](https://github.com/wh-iterabb-it/meowfacts).
 - **Random Cat Pictures**  
   Sourced from [The Cat API](https://developers.thecatapi.com/).
 - **Tap to Refresh**  

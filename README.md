@@ -72,17 +72,17 @@ This app is organized with a **clean** or **MVVM**-like approach (depending on h
    - Double-click on PurrfectFacts.xcodeproj or open it via Xcode.
 
 3.	**Build & Run**
-  - Select the appropriate iOS Simulator or a real device in Xcode’s scheme.
-  - Press ⌘ + R (Run).
+    - Select the appropriate iOS Simulator or a real device in Xcode’s scheme.
+    - Press ⌘ + R (Run).
 
 
 ## Usage
 1.	Launch the App
-  - You’ll see a random cat image and fact loaded automatically.
+    - You’ll see a random cat image and fact loaded automatically.
 2.	Tap the Screen
-  - Each tap triggers a new fetch of both the cat image and fact.
+    - Each tap triggers a new fetch of both the cat image and fact.
 3.	Enjoy the Facts
-  - Use it as a fun reference, or just amuse yourself with random kitty content.
+    - Use it as a fun reference, or just amuse yourself with random kitty content.
   
   
 ## Room for Improvement
